@@ -37,7 +37,8 @@
 
 * **Body:**
 
-`{
+```
+{
    "$type": "Asi.Soa.Membership.DataContracts.PersonData, Asi.Soa.Membership.Contracts",
    "PersonName": {
                 "$type": "Asi.Soa.Membership.DataContracts.PersonNameData, Asi.Soa.Membership.Contracts",
@@ -45,5 +46,6 @@
                 "InformalName": "Gee",
                 "LastName": "Smith",
                 "NamePrefix": "Mr."               
-            }
-}`
+            },
+}
+```
