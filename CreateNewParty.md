@@ -8,7 +8,7 @@
 
 * **Method:**
 
-  `POST`
+  <span style="background-color:#F2B622;color:#fff">POST</span>
   
 *  **URL Params**
 
