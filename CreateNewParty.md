@@ -37,7 +37,7 @@
 
 * **Body:**
 
-  ```javascript
+`
 {
    "$type": "Asi.Soa.Membership.DataContracts.PersonData, Asi.Soa.Membership.Contracts",
    "PersonName": {
@@ -48,4 +48,4 @@
                 "NamePrefix": "Mr."               
             },
 }
-  ```
+'
