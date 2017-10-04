@@ -45,5 +45,5 @@
                 "InformalName": "Gee",
                 "LastName": "Smith",
                 "NamePrefix": "Mr."               
-            },
-}'
+            }
+}`
