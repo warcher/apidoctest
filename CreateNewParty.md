@@ -1,14 +1,14 @@
-**Show User**
+**Create new party**
 ----
   Returns json data about a single user.
 
 * **URL**
 
-  /users/:id
+  /api/party
 
 * **Method:**
 
-  `GET`
+  `POST`
   
 *  **URL Params**
 
